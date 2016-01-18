@@ -1,0 +1,28 @@
+name: The Feeling Maker
+favicon: null
+layout_spectrum: 0.7700942810624838
+typography_spectrum: 0.7334171656984836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8831816634628922
+  lightness: 0.5290757433976978
+  saturation: 0.9056911952793598
+  rhythmicContrast: 0.7372893488500267
+purpose: []
