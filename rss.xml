@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Feeling Maker]]></title>
-        <description><![CDATA[The Feeling Maker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Feeling Maker - Handicapped physician turns into a biological hacker by breaking into the patient´s defense lines during consultation.]]></title>
+        <description><![CDATA[The Feeling Maker - Handicapped physician turns into a biological hacker by breaking into the patient´s defense lines during consultation.]]></description>
+        <link>https://thegrid.ai/the-feeling-maker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 21:08:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 19:05:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-feeling-maker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Feeling Maker]]></title>
-            <description><![CDATA[<article><h1>The Feeling Maker</h1><p>Well, first day at The Grid. Created The Feeling Maker page. New episode to come soon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85d3566a3d32284555fdba1fef3eb1aeb2d3a634.jpg"></article>]]></description>
-            <link>undefinedthe-feeling-maker/index.html</link>
+            <description><![CDATA[<article><h1>The Feeling Maker</h1><p>Well, first day at The Grid. Created The Feeling Maker page. First episode of this genuine story to come soon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85d3566a3d32284555fdba1fef3eb1aeb2d3a634.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-feeling-maker/the-feeling-maker/index.html</link>
             <guid isPermaLink="false">ef68566a-4d70-4a13-bb4a-965f74dadb63</guid>
-            <pubDate>Mon, 18 Jan 2016 21:08:24 GMT</pubDate>
+            <pubDate>Thu, 21 Jan 2016 19:05:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
