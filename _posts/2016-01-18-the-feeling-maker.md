@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Handicapped physician turns into a biological hacker by breaking into the patient´s defense lines during consultation.
-datePublished: '2016-01-21T20:41:57.811Z'
-dateModified: '2016-01-21T19:08:52.582Z'
+datePublished: '2016-01-28T16:59:19.871Z'
+dateModified: '2016-01-22T16:43:44.403Z'
 title: The Feeling Maker
 author: []
 sourcePath: _posts/2016-01-18-the-feeling-maker.md
