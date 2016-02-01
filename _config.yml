@@ -1,7 +1,7 @@
 name: The Feeling Maker
 favicon: null
-layout_spectrum: 0.60018
-typography_spectrum: 0
+layout_spectrum: 0.8477
+typography_spectrum: 0.74074
 title: The Feeling Maker - Handicapped physician turns into a biological hacker by breaking into the patient´s defense lines during consultation.
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5
+  brandStrength: 0.625
   lightness: 0.5
-  saturation: 0.0625
-  rhythmicContrast: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
