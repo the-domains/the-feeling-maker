@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T18:55:27.707Z'
+datePublished: '2016-02-01T18:55:27.715Z'
 dateModified: '2016-02-01T18:55:23.768Z'
 title: It is two-way myelinated nerve cell bundle that connects older regions of the temporal lobe to the more recently evolved thinking and deciding forebrain areas.
 author: []
