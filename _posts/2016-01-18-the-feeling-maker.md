@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Handicapped physician turns into a biological hacker by breaking into the patient´s defense lines during consultation.
-datePublished: '2016-01-28T16:59:19.871Z'
-dateModified: '2016-01-22T16:43:44.403Z'
+datePublished: '2016-02-01T18:53:58.953Z'
+dateModified: '2016-02-01T18:53:55.320Z'
 title: The Feeling Maker
 author: []
 sourcePath: _posts/2016-01-18-the-feeling-maker.md
@@ -22,5 +22,5 @@ url: the-feeling-maker/index.html
 _type: Article
 
 ---
-Well, first day at The Grid. Created _The Feeling Maker_ page. First episode of this genuine story to come soon.
+First draft at The Grid. Created THE FEELING MAKER. First episode of the story to follow soon.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6a1ebe9-75e9-4697-adb9-ecbb41bfc500.jpg)
